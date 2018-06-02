@@ -1,1 +1,2 @@
-cmd: git submodule -q update --init
+install:
+  - cmd: git submodule -q update --init
