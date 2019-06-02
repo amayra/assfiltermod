@@ -1,6 +1,6 @@
 [submodule "libass"]
 	path = libass/upstream
-	url = https://github.com/libass/libass.git
+	url = https://github.com/ShiftMediaProject/libass.git
 [submodule "fribidi"]
 	path = SMP/fribidi
 	url = https://github.com/ShiftMediaProject/fribidi.git
